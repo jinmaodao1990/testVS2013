@@ -12,6 +12,7 @@ using DevExpress.UserSkins;
 using DevExpress.XtraBars.Helpers;
 using DevExpress.XtraBars;
 using DevExpress.XtraBars.Ribbon;
+using DevExpress.XtraBars.Docking;
 
 
 namespace DXApplication3
